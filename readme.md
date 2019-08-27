@@ -6,4 +6,4 @@ This project is part of [freecodecamp](https://www.freecodecamp.org/) Responsive
 
 ## Project Link:
 
-Click [here]() to view the live page
+Click [here](https://mitalishah.github.io/fcc-technical-documentation/) to view the live page
